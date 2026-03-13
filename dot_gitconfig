@@ -1,0 +1,7 @@
+[user]
+	email = rico.gamero@tebra.com
+	name = Rico G
+[credential]
+	helper = osxkeychain
+[core]
+	excludesfile = /Users/rico.gamero/.gitignore_global
