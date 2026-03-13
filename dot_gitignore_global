@@ -1,0 +1,29 @@
+## Secret Files
+.env
+*.envrc*
+*.key
+*.pem
+*.gpg
+*.secret
+
+## TerraForm Files
+.terraform/
+*.tfplan
+*.tfstate
+*.tfstate.*
+*.tfvars
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraform.lock.hcl
+*_migration.tf
+
+## Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
